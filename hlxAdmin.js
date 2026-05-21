@@ -1,3 +1,7 @@
+//const ORG = ''; // lakkanalkn
+//const REPO = 'aem-ue1'; // lakkanalkn
+//const BRANCH = 'main'; // the branch to execute API calls from
+
 // Make sure to run this commands in the terminal:
 // npm install --save-dev dotenv axios
 // add a .env file with the content: AEM_AUTH_TOKEN=your-auth-token
