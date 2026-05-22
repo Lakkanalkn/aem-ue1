@@ -61,22 +61,7 @@
     {
       "title": "Sections",
       "id": "sections",
-      "components": [
-        {
-          "title": "Section",
-          "id": "section",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/section/v1/section",
-                "template": {
-                  "model": "section"
-                }
-              }
-            }
-          }
-        }
-      ]
+      "components": []
     },
     {
       "title": "Blocks",
